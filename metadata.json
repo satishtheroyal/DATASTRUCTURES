@@ -1,0 +1,5 @@
+{
+  "name": "Next-Gen DSA Tracker",
+  "description": "A real-time, futuristic, creative tracking platform with master-user control and dynamic user dashboards for DSA progress. This initial version sets up the authentication flow and page structure.",
+  "requestFramePermissions": []
+}
